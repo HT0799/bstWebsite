@@ -1,0 +1,135 @@
+{
+  "pagination": {
+    "prev": "Previous",
+    "next": "Next",
+    "goto": "Go to",
+    "pagesize": "/ page",
+    "total": "Total {total} items",
+    "page": "Page"
+  },
+  "header": {
+    "home": "Home",
+    "about": "About BST",
+    "products": "Products",
+    "news": "News",
+    "research": "R&D",
+    "contact": "Contact"
+  },
+  "home": {
+    "about": "About",
+    "bst": "Bester",
+    "products": "Products",
+    "show": "Show",
+    "news": "News",
+    "trends": "Trends",
+    "qualification": "Qualification",
+    "honor": "Honor",
+    "cooperation": "Cooperation",
+    "partner": "Partner"
+  },
+  "products": {
+    "banner": "Quality first, Customer Supreme, People-oriented, Sustainable development",
+    "title": "Products",
+    "center": "Center",
+    "search": "Search",
+    "directory": "Product Directory",
+    "categories": {
+      "acDisc": "AC Disc Suspension Porcelain Insulators",
+      "dcDisc": "DC Disc Suspension Porcelain Insulators",
+      "linePost": "Line Post Porcelain Insulators",
+      "pin": "Pin Insulators",
+      "strain": "Strain Insulators",
+      "rod": "Rod Insulators",
+      "highSkid": "High Skid Group Insulators"
+    },
+    "description": "AC disc suspension insulators are mainly used in AC transmission lines. When using them, it is necessary to select different sizes of insulators based on indicators such as small mechanical holes and insulation resistance. The selection of insulators should be based on operating voltage, insulation performance, and operating environment, avoiding mountain or valley areas. In regions with water vapor diffusion, through long-term research work in the Arctic cold climate, our products are better and are applied in areas such as power transmission lines and electrification."
+  },
+  "productDetail": {
+    "description": "Product Description",
+    "specifications": "Technical Specifications",
+    "backToProducts": "Back to Products"
+  },
+  "recruitment": {
+    "title": "Recruitment Information",
+    "companyIntro": "Pingxiang Bester Electric Insulator Co., Ltd. was established in 2007, located in Futian Industrial Park, Anyuan District, Pingxiang City, with a registered capital of 360 million yuan, nearly 700 employees, covering an area of 150 mu, with a factory area of 100,000 square meters, and projected 2024 sales of 600 million yuan. The company is the largest AC/DC disc-shaped suspension porcelain insulator R&D and manufacturing enterprise in Jiangxi Province, focusing on power grid construction and development.",
+    "department": "Department",
+    "position": "Position",
+    "search": "Search",
+    "apply": "Apply",
+    "education": "Education",
+    "openings": "Openings",
+    "salary": "Salary"
+  },
+  "aboutCompany": {
+    "banner": "To become a world-class century-old enterprise with core competitiveness",
+    "companyIntro": "Company Introduction",
+    "chairmanSpeech": "Chairman's Speech",
+    "corporateCulture": "Corporate Culture",
+    "honorQualification": "Honor Qualifications",
+    "developmentProcess": "Development Process",
+    "company": "Company",
+    "intro": "Introduction",
+    "chairman": "Chairman's",
+    "chairman2": "Chairman",
+    "speech": "Speech",
+    "corporate": "Corporate",
+    "culture": "Culture",
+    "honor": "Honor",
+    "qualification": "Qualification",
+    "development": "Development",
+    "process": "Process",
+    "operationPhilosophy": "Management Ideas",
+    "operationPhilosophyDes": "Provide safe and zero-free porcelain insulators for global power supply",
+    "mission": "Mission",
+    "missionDes": "Provide security guarantees for the construction of high-reliability power grids worldwide",
+    "value": "Value",
+    "valueDes": "Learning, exercise, reflection, self-discipline, honor",
+    "basicPolicy": "Basic Policy",
+    "basicPolicyDes": "Quality first, customer Supreme, people-oriented, sustainable development",
+    "vision": "Vision",
+    "visionDes": "To become a world-class century-old enterprise with core competitiveness"
+  },
+  "news": {
+    "banner": "Learn the latest news and stay ahead of the curve",
+    "companyNews": "Company News",
+    "company": "Company",
+    "news": "News",
+    "industryNews": "Industry News",
+    "industry": "Industry",
+    "announcement": "Announcement",
+    "annunciate": "Annunciate",
+    "proclamation": "Proclamation",
+    "search": "Search",
+    "searchPlaceholder": "Enter keywords to search..."
+  },
+  "contact": {
+    "banner": "Learn, Exercise, Reflect, Self-discipline, Honor",
+    "talentConcept": "Talent Concept",
+    "talent": "Talent",
+    "concept": "Concept",
+    "recruitmentInfo": "Recruitment Information",
+    "recruitment": "Recruitment",
+    "info": "Information",
+    "service": "Service & Support",
+    "talentInfo": "Talent is an intangible asset of the company, a valuable asset of the company, and the source of the company's core competitiveness. The company respects the value of all employees, establishes the concept of everyone being a talent, and always takes talent as the starting point, competitive basis, and development basis for the development of the enterprise.",
+    "workEnvironment": "Work Environment",
+    "workEnvironmentInfo": "Efficient, optimistic, positive, cheerful, with a harmonious and warm working environment and a team spirit of striving and progress",
+    "workEnvironment2": "Employment Principle",
+    "workEnvironmentInfo2": "Both virtue and talent are required, not bound by conventions, positions are filled by the right people, everyone's talents are fully utilized, performance is the top priority, long-term incentives are provided, and one can enter or exit, rise or fall.",
+    "workEnvironment3": "Power Interviews",
+    "workEnvironmentInfo3": "Honesty, professionalism, down-to-earth attitude, continuous innovation, and the courage to forge ahead.",
+    "workEnvironment4": "training objective",
+    "workEnvironmentInfo4": "Build a core team that is confident, self-disciplined, loyal, thoughtful, thoughtful, cooperative, practical, high-quality, broad-minded, innovative, socially responsible and professionally competent."
+  },
+  "research": {
+    "banner": "To become a world-class century-old enterprise with core competitiveness",
+    "researchCenter": "Research Center",
+    "smartAutomation": "Smart Automation Process Equipment",
+    "qualityAssurance": "Quality Assurance",
+    "projectPerformance": "Project Performance"
+  },
+  "common": {
+    "viewDetail": "View Detail",
+    "viewMore": "More"
+  }
+} 

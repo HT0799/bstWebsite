@@ -1,0 +1,28 @@
+@mixin responsive-font($min-size, $max-size) {
+  font-size: clamp($min-size, 4vw, $max-size);
+}
+
+@mixin flex-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+@mixin container {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 16px;
+}
+
+@mixin responsive($breakpoint) {
+  @if $breakpoint == mobile {
+    @media (max-width: $breakpoint-mobile) { @content; }
+  }
+  @else if $breakpoint == tablet {
+    @media (max-width: $breakpoint-tablet) { @content; }
+  }
+  @else if $breakpoint == desktop {
+    @media (min-width: #{$breakpoint-tablet + 1}) { @content; }
+  }
+}

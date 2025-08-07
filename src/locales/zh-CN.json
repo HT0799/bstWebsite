@@ -1,0 +1,135 @@
+{
+  "pagination": {
+    "prev": "上一页",
+    "next": "下一页",
+    "goto": "跳至",
+    "pagesize": "条/页",
+    "total": "共 {total} 条",
+    "page": "页"
+  },
+  "header": {
+    "home": "首页",
+    "about": "走进百斯特",
+    "products": "产品中心",
+    "news": "新闻资讯",
+    "research": "产能与研发",
+    "contact": "联系我们"
+  },
+  "home": {
+    "about": "关于",
+    "bst": "百斯特",
+    "products": "产品",
+    "show": "展示",
+    "news": "新闻",
+    "trends": "动态",
+    "qualification": "资质",
+    "honor": "荣誉",
+    "cooperation": "合作",
+    "partner": "伙伴"
+  },
+  "products": {
+    "banner": "质量第一、客户至上、以人为本、持续发展",
+    "title": "产品",
+    "center": "中心",
+    "search": "搜索",
+    "directory": "产品目录",
+    "categories": {
+      "acDisc": "交流盘形悬式瓷绝缘子",
+      "dcDisc": "直流盘形悬式瓷绝缘子",
+      "linePost": "线路柱式瓷绝缘子",
+      "pin": "针式绝缘子",
+      "strain": "拉紧绝缘子",
+      "rod": "棒式绝缘子",
+      "highSkid": "高橇组绝缘子"
+    },
+    "description": "交流盘形悬式绝缘子主要用于交流输电线路，使用时需要根据小机械手孔和绝缘电阻等指标来选择使用不同尺寸的绝缘子，选择绝缘子时应根据使用电压、绝缘性能及操作环境，避开过山或过峡谷地带，在有水汽弥漫地区，在供应产品中属北极寒冷的经过长期工作研究，更具好产品，应用领域：电力传输线路，电气化等。"
+  },
+  "productDetail": {
+    "description": "产品描述",
+    "specifications": "技术规格",
+    "backToProducts": "返回产品列表"
+  },
+  "recruitment": {
+    "title": "招聘信息",
+    "companyIntro": "萍乡百斯特电瓷有限公司成立于2007年，位于萍乡市安源区富田工业园，注册资金3.6亿，现有职工近700人，占地面积150余亩，厂房面积10万平方米，2024年销售额额超6亿元，公司是江西省最大的交、直流盘形悬式瓷绝缘子研发、生产制造企业，一直专注于电力电网建设与发展。",
+    "department": "所属部门",
+    "position": "招聘岗位",
+    "search": "搜索",
+    "apply": "申请岗位",
+    "education": "学历要求",
+    "openings": "需求人数",
+    "salary": "福利待遇"
+  },
+  "aboutCompany": {
+    "banner": "成为全球一流具有核心竞争力的百年企业",
+    "companyIntro": "公司简介",
+    "chairmanSpeech": "董事长致辞",
+    "corporateCulture": "企业文化",
+    "honorQualification": "荣誉资质",
+    "developmentProcess": "发展历程",
+    "company": "公司",
+    "intro": "简介",
+    "chairman": "董事长",
+    "chairman2": "董事长",
+    "speech": "致辞",
+    "corporate": "企业",
+    "culture": "文化",
+    "honor": "荣誉",
+    "qualification": "资质",
+    "development": "发展",
+    "process": "历程",
+    "operationPhilosophy": "经营理念",
+    "operationPhilosophyDes": "为全球电力提供安全免测零值的瓷绝缘子",
+    "mission": "使命",
+    "missionDes": "为全球高可靠性电网建设提供\n安全保障",
+    "value": "价值观",
+    "valueDes": "学习、锻炼、反省、自律、荣誉",
+    "basicPolicy": "基本方针",
+    "basicPolicyDes": "质量第一、客户至上\n以人为本、持续发展",
+    "vision": "愿景",
+    "visionDes": "成为全球一流具有核心竞争力的百年企业"
+  },
+  "news": {
+    "banner": "了解最新动态，掌握前沿资讯",
+    "companyNews": "公司新闻",
+    "company": "公司",
+    "news": "新闻",
+    "industryNews": "行业新闻",
+    "industry": "行业",
+    "announcement": "通告公告",
+    "annunciate": "通告",
+    "proclamation": "公告",
+    "search": "搜索",
+    "searchPlaceholder": "输入关键词搜索内容..."
+  },
+  "contact": {
+    "banner": "学习、锻炼、反省、自律、荣誉",
+    "talentConcept": "人才理念",
+    "talent": "人才",
+    "concept": "理念",
+    "recruitmentInfo": "招聘信息",
+    "recruitment": "招聘",
+    "info": "信息",
+    "service": "服务与支持",
+    "talentInfo": "人才是公司的无形资产,是公司的宝贵财富,是公司创造核心竞争力的源泉。公司尊重全体员工的价值,树立人人是人才的观念 始终把人才作为企业发展的创业之本、竞争之本、发展之本",
+    "workEnvironment": "工作氛围",
+    "workEnvironmentInfo": "高效,乐观,积极,愉悦,具有一个和谐温馨的工作环境一种拼搏进取的团队精神",
+    "workEnvironment2": "用人原则",
+    "workEnvironmentInfo2": "德才兼备,不拘一格,位适其人,人尽其才 绩效为先,长效激励 能进能出,能上能下。",
+    "workEnvironment3": "选人标准",
+    "workEnvironmentInfo3": "诚信,专业,踏实, 努力创新,勇于进取。",
+    "workEnvironment4": "培养目标",
+    "workEnvironmentInfo4": "打造一支自信、自律、忠诚、会思索、有思想、懂合作、实践能力强、综合素质高、视野开阔、富有创新 精神、具有社会责任 感和优秀专业才能的核心团队。"
+  },
+  "research": {
+    "banner": "为全球高可靠性电网建设提供安全保障",
+    "researchCenter": "研发中心",
+    "smartAutomation": "智能自动化工艺设备",
+    "qualityAssurance": "优品保障",
+    "projectPerformance": "工程业绩"
+  },
+  "common": {
+    "viewDetail": "查看详情",
+    "viewMore": "查看更多"
+  }
+}
